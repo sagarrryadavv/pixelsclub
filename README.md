@@ -8,7 +8,7 @@
 <b>Crafting the future, one line of code at a time.</b>
 
 <br/><br/>
-<a href="https://pixelsclub-bu.vercel.app/" target="_blank"><h2>🌐 Visit Website</h2></a>
+**🌐 [Visit Website](https://pixelsclub-bu.vercel.app/)**
 
 </div>
 
